@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "https://molion-netease-api.example.com/:match*"
+    }
+  ]
+}
